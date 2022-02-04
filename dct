@@ -6,7 +6,7 @@
 		<div class="uic__flex">
 			<div class="uic__content">
 				<p class="uic__intro uic__text uic__hidden">[[intro]]</p>
-				<h2 class="uic__title uic__hidden">[[title]]</h2>
+				<h2 class="uic__title uic__hidden">{{title}}</h2>
 				<span class="uic__text uic__wysiwyg uic__hidden">[[text]]</span>
 				<a class="uic__btn" data-uic-id="2275357" onclick="return uic.promoClick(this);" href="[[link]]">
 					<span class="uic__btn-text uic__hidden">[[button_text]]</span>
