@@ -1,0 +1,25 @@
+<div data-uic="2275357">
+				<!-- UIC friction-half-wall -->
+<div id="uic_shadow" class="uic__shadow uic__dismissed"></div>
+<section id="uic_fixed-half-lockedbg" class="fixed-half-lockedbg uic uic__wrap uic__position-fixed uic__dismissed">
+	<div class="uic__fixed-half uic__lockedbg uic__height-half">
+		<div class="uic__flex">
+			<div class="uic__content">
+				<p class="uic__intro uic__text uic__hidden">[[intro]]</p>
+				<h2 class="uic__title uic__hidden">[[title]]</h2>
+				<span class="uic__text uic__wysiwyg uic__hidden">[[text]]</span>
+				<a class="uic__btn" data-uic-id="2275357" onclick="return uic.promoClick(this);" href="[[link]]">
+					<span class="uic__btn-text uic__hidden">[[button_text]]</span>
+				</a>
+				<p class="uic__outro uic__text uic__hidden">[[outro]]</p>
+			</div>
+		</div>
+	</div>
+</section>
+<!-- UIC friction-half-wall END -->
+
+			</div>
+			<script>
+				let strings_2275357 = {"defaults":{"intro":"","title":"Continue reading The Courier","text":"You have now reached your limit of free articles. Take advantage of our exclusive Black Friday offer and access all articles on The Courier for a full year, including Premium Content.","button_text":"SUBSCRIBE","link":"\/subscribe\/","outro":"You can cancel anytime."},"overrides":[{"user_states":["any"],"content_types":["premium","impact"],"categories":false,"creative":"blackfriday-paywall","strings":{"intro":"Already a subscriber? <a class=\"uic__link\" href=\"\/login\/\">Sign in<\/a>","title":"Subscribe to read","text":"This premium article is only available to subscribers of The Courier.<br \/>Not subscribed? Use our 50% off Black Friday offer to unlock all content on our website for a full year. "}}],"data_layer":{"uic_data_layer_id":"paywall","uic_data_layer_name":"Paywall","uic_data_layer_creative":"paywall","uic_data_layer_position":"Friction Half Wall","uic_data_layer_wall_state":"paywall"}};
+				uic.filterStrings( 2275357, strings_2275357 )
+			</script>
